@@ -3,7 +3,7 @@
 
 ## 👨‍💻 &nbsp; Who am I?
 
-My name is Mehmet Ali, and I'm the co-founder of my startup T-Fashion. I'm a software developer mostly focused on web development. JavaScript is my favorite language. I sometimes do small side projects and try to contribute to the open source as much as I can.
+My name is Mehmet Ali, and I'm the co-founder of T-Fashion. I'm a software developer mostly focused on web development. JavaScript is my favorite language. I sometimes do small side projects and try to contribute to the open source as much as I can.
 
 ## 📝 &nbsp; My blog posts
 
