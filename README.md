@@ -5,6 +5,11 @@
 
 My name is Mehmet Ali, and I'm the co-founder of T-Fashion. I'm a software developer mostly focused on web development. JavaScript is my favorite language. I sometimes do small side projects and try to contribute to the open source as much as I can.
 
+<details>
+  <summary>
+    More about me
+  </summary>
+
 ## 📝 &nbsp; My blog posts
 
 [Workbox Nedir? Ne işe yarar? Nasıl Kullanılır? | Workbox #1](https://medium.com/@mrpeker/workbox-nedir-ne-i%C5%9Fe-yarar-nas%C4%B1l-kullan%C4%B1l%C4%B1r-workbox-1-93dcdcb54763)
@@ -32,3 +37,4 @@ My name is Mehmet Ali, and I'm the co-founder of T-Fashion. I'm a software devel
 We ranked first among Turkish startups and third among global startups as T-Fashion
 
 [\[TR\] Award-winning startup of high school students 'will accelerate' in the USA](https://www.aa.com.tr/tr/bilim-teknoloji/liseli-genclerin-odullu-girisimi-abdde-hizlanacak-/1608298)
+</details>
